@@ -1,0 +1,45 @@
+﻿{
+  "data": [
+    {
+      "id": "23134",
+      "carno": "A23521",
+      "company": "大型异物",
+      "content": "北1通道",
+      "speed": "2.5m/s",
+      "load": "7KG"
+    },
+    {
+      "id": "72631",
+      "carno": "C23412",
+      "company": "纤维布料",
+      "content": "北2通道",
+      "speed": "0.8m/s",
+      "load": "0.6KG"
+    },
+    {
+      "id": "12343",
+      "carno": "A32D1",
+      "company": "大型异物",
+      "content": "南2通道",
+      "speed": "0.6m/s",
+      "load": "5KG"
+    },
+    {
+      "id": "5231",
+      "carno": "C92342",
+      "company": "纤维布料",
+      "content": "南6通道",
+      "speed": "1.5m/s",
+      "load": "0.5KG"
+    },
+   {
+      "id": "5231",
+      "carno": "A92342",
+      "company": "大型异物",
+      "content": "东6通道",
+      "speed": "1m/s",
+      "load": "15KG"
+    }
+
+  ]
+}
